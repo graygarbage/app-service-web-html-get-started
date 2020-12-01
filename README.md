@@ -21,3 +21,6 @@ To learn how to deploy this starter web app to App Service in a few minutes, go 
 ## License
 
 See [LICENSE](LICENSE).
+
+
+I added this note to test work flow and commits to Azure appservices and the linked repo deployment services. Time to commit.
